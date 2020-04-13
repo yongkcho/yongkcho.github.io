@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "현실의 숲 |코딩편"
+title                    : "현실의 숲 | 코딩편"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "동숲대신 현숲"
